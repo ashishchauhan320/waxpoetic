@@ -1,0 +1,3 @@
+# AddHandler application/x-httpd-php .php
+# AddHandler x-httpd-php .php
+# AddHandler application/x-httpd-php5 .php
